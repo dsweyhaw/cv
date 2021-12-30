@@ -1,0 +1,27 @@
+Day 1:
+
+- i tag : The content inside is display italic. ( nghieng);
+- em tag : italic 
+
+Different with i tag and em tag :
+em tag : is semantically on a important word -- i tag : is normal set the text style is italic.
+-----------------------------------
+- div tag : is a block of content
+- p tag : paragraph tag;
+- br tag : like enter (xuong dong);
+- strong tag : display bold style. 
+- hr tag : horizontal line.
+
+--------------------- TABLE ------------------
+
+table tag :
+tr tag : 
+th tag : table heading
+td tag : table data
+
+Day2: 30/12/2021
+form tag : Used for collect user input.
+label tag : Kiểu 1 dòng thông báo để các thẻ input sau nó
+input tag: text, button, submit,tel,....
+
+form (action ) : mailto:<Email you want to send.
